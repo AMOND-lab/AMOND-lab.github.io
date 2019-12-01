@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://amond-lab.github.io"
+url: "https://amond-lab.github.io/"
+
 
 # THEME-SPECIFIC CONFIGURATION
 title: Ajou Mathematic Office Navigating Data-science                                    # site's title
